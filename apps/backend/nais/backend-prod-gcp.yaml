@@ -47,9 +47,6 @@ spec:
         - application: nada-update-po-teams-dataset
           namespace: nada
           cluster: prod-gcp
-        - application: security-champion-slackbot
-          namespace: security-champion-admin
-          cluster: prod-gcp
         - application: portal
           namespace: navdig
           cluster: prod-gcp
